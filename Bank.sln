@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{7A0B459E-3CB8-4E59-A801-530A1ED1754F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobizon", "Mobizon\Mobizon.csproj", "{7752A26E-3DF1-4053-B112-78B1CF38BDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0B459E-3CB8-4E59-A801-530A1ED1754F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0B459E-3CB8-4E59-A801-530A1ED1754F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0B459E-3CB8-4E59-A801-530A1ED1754F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0B459E-3CB8-4E59-A801-530A1ED1754F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7752A26E-3DF1-4053-B112-78B1CF38BDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7752A26E-3DF1-4053-B112-78B1CF38BDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7752A26E-3DF1-4053-B112-78B1CF38BDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7752A26E-3DF1-4053-B112-78B1CF38BDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EC9F574-1CD3-400A-9B49-10F637B988FF}
+	EndGlobalSection
+EndGlobal
