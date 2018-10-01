@@ -1,0 +1,9 @@
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\bin\Debug\Mobizon.dll
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\bin\Debug\Mobizon.pdb
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\obj\Debug\Mobizon.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\obj\Debug\Mobizon.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\obj\Debug\Mobizon.dll
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\obj\Debug\Mobizon.pdb
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\УринбасаровД\source\repos\Bank\Mobizon\obj\Debug\Mobizon.csproj.CopyComplete

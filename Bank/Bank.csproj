@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Mobizon\Mobizon.csproj">
+      <Project>{7752a26e-3df1-4053-b112-78b1cf38bdef}</Project>
+      <Name>Mobizon</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,3 +5,8 @@ c:\users\уринбасаровд\source\repos\Bank\Bank\obj\Debug\Bank.csprojAs
 c:\users\уринбасаровд\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
 c:\users\уринбасаровд\source\repos\Bank\Bank\obj\Debug\Bank.exe
 c:\users\уринбасаровд\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\УринбасаровД\source\repos\Bank\Bank\bin\Debug\Mobizon.dll
+C:\Users\УринбасаровД\source\repos\Bank\Bank\bin\Debug\Mobizon.pdb
+C:\Users\УринбасаровД\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\УринбасаровД\source\repos\Bank\Bank\bin\Debug\Newtonsoft.Json.dll
+C:\Users\УринбасаровД\source\repos\Bank\Bank\bin\Debug\Newtonsoft.Json.xml
